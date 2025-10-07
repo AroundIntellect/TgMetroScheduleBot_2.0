@@ -39,7 +39,7 @@ MetroSchedule_Bot предоставляет удобное меню для вы
    ```
 
 ## Использование
-Бот всегда доступен по ссылке: [EkbMetroScheduleBot](https://t.me/EkbMetroScheduleBot)
+<s>Бот всегда доступен по ссылке: [EkbMetroScheduleBot](https://t.me/EkbMetroScheduleBot)</s>
 
 ## Основные функции:
 • Выбор станции начала движения и станции назначения   
